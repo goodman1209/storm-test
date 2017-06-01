@@ -1,0 +1,4 @@
+worker-id: fd62eef2-8403-4ef3-8329-c161bf345bc0
+logs.users: []
+logs.groups: []
+topology.submitter.user: allan
